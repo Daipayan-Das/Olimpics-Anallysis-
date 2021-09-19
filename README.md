@@ -1,4 +1,4 @@
-# Olimpics-Anallysis-
+# Olimpics-Anallysis
 
 The is the assignment on the Olimpics data analysis 
 
